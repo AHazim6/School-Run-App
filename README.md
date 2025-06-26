@@ -1,1 +1,3 @@
 # School-Run-App
+
+This project aims to create an app for dropping off and picking up students from school. It helps ease teachers' jobs as they can wait for the students from inside the school rather than having to wait outside of the school to check the attendance of these students. Furthermore, this app also shortens the queue of cars. This app will detect the registered cars when they are near the drop off/pick up area, and will notify the teachers. Not only that, students’ name tags will also be embedded with RFID to enter the school gate that have been programmed with actuators to open it after detecting the RFID.
